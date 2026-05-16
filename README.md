@@ -104,6 +104,8 @@ http://EC2-PUBLIC-IP
 
 ---
 
-## 👨‍💻 Author
-
+# 👨‍💻 Author
 Raphael Massengo
+- CCNA Certified
+- AWS Cloud Engineering Enthusiast
+- Master’s Student in Data Analytics
