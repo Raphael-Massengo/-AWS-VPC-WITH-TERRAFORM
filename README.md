@@ -33,6 +33,12 @@ The infrastructure includes:
 
 ---
 
+## 📊 Architecture Diagram
+
+<img width="848" height="342" alt="architecture drawio" src="https://github.com/user-attachments/assets/80a602c5-bb66-42dd-9efc-d4ab386ca289" />
+
+---
+
 ## 🚀 Deployment
 
 Initialize Terraform:
